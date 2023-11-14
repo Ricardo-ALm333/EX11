@@ -25,7 +25,7 @@ namespace EX11
                 label1.ForeColor = colorDialog.Color;
 
         }
-
+        // AHAHAAHAHAAHAAHAHAAHA
         private void tipoDeLetraToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FontDialog fontDialog = new FontDialog();
